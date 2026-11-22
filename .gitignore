@@ -1,0 +1,10 @@
+.env
+data/*
+!data/cache/
+data/cache/*
+!data/cache/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/
+.claude/settings.local.json
